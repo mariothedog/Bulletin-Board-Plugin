@@ -1,0 +1,4 @@
+name: BulletinBoard
+version: 1.0-SNAPSHOT
+main: me.mariothedog.bulletinboard.BulletinBoard
+api-version: 1.13
